@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">hjtNews</string>
+    <string name="title_digital">数码</string>
+    <string name="title_phone">手机</string>
+    <string name="title_science">科技</string>
+    <string name="title_finance">财经</string>
+    <string name="title_me">个人</string>
+    <string name="title_activity_show_content">ShowContentActivity</string>
+    <string name="large_text">加载中……</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_comment">CommentActivity</string>
+    <string name="title_activity_star">StarActivity</string>
+</resources>

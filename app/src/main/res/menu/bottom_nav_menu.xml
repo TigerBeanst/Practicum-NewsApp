@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_digital"
+        android:icon="@drawable/ic_devices_black_24dp"
+        android:title="@string/title_digital" />
+
+    <item
+        android:id="@+id/navigation_phone"
+        android:icon="@drawable/ic_developer_mode_black_24dp"
+        android:title="@string/title_phone" />
+
+    <item
+        android:id="@+id/navigation_science"
+        android:icon="@drawable/ic_wifi_tethering_black_24dp"
+        android:title="@string/title_science" />
+
+    <item
+        android:id="@+id/navigation_finance"
+        android:icon="@drawable/ic_payment_black_24dp"
+        android:title="@string/title_finance" />
+
+    <item
+        android:id="@+id/navigation_me"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="@string/title_me" />
+
+</menu>
